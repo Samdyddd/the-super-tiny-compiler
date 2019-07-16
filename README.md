@@ -1,9 +1,11 @@
 [![The Super Tiny Compiler](https://cloud.githubusercontent.com/assets/952783/21579290/5755288a-cf75-11e6-90e0-029529a44a38.png)](the-super-tiny-compiler.js)
 
 ***Welcome to The Super Tiny Compiler!***
+（欢迎来到 the super tiny compiler)
 
 This is an ultra-simplified example of all the major pieces of a modern compiler
 written in easy to read JavaScript.
+(这是一个易于阅读的javascript编写的现在编译器的所有主要部分的超简示例。阅读指导代码将帮助你了解大多数编译器是如何工作的。)
 
 Reading through the guided code will help you learn about how *most* compilers
 work from end to end.
@@ -19,6 +21,7 @@ work from end to end.
 That's fair, most people don't really have to think about compilers in their day
 jobs. However, compilers are all around you, tons of the tools you use are based
 on concepts borrowed from compilers.
+（事实上，大多数人在日常工作中并不需要考虑编译器。然而，编译器就在你身边，你使用的大量工具都是基于从编译器借来的概念。）
 
 ### But compilers are scary!
 
